@@ -10,7 +10,8 @@
 
 3.Swagger-UI
 
-4.Katmanlı Mimari(Entity-Repository(DAO)-Service-API-DTO)
+4.Katmanlı Mimari(Entity-Repository(DAO)-Service-API-DTO-Core)
 
 5.Exception Handler
+
 
